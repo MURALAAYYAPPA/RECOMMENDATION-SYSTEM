@@ -71,3 +71,4 @@ This task demonstrates how a simple recommendation system works on real-world da
 
 OUTPUT :
 <img width="804" height="695" alt="Image" src="https://github.com/user-attachments/assets/26a2963d-1985-4115-9e4b-18515be573f4" />
+<img width="994" height="696" alt="Image" src="https://github.com/user-attachments/assets/d3382766-e229-4e57-8bf5-397b3bd8dcc1" />
