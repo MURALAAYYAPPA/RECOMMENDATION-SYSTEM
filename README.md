@@ -70,3 +70,4 @@ Conclusion :
 This task demonstrates how a simple recommendation system works on real-world data. It gives you an idea of how we can leverage machine learning techniques to predict user preferences. With minimal tools and some sophisticated math under the hood, this notebook produces a simple but efficient recommender that would be easily modifiable to other domains such as e-commerce, music, or learning websites.
 
 OUTPUT :
+<img width="804" height="695" alt="Image" src="https://github.com/user-attachments/assets/26a2963d-1985-4115-9e4b-18515be573f4" />
